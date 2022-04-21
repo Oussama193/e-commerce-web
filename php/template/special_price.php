@@ -245,3 +245,5 @@
             <br>
         </section>
         <!-- !Special Price -->
+
+        </main>
